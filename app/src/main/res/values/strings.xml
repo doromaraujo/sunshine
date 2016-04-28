@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Sunshine</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_refresh" translatable="false">Refresh</string>
+    <string name="action_view_map" translatable="false">View on map</string>
+    <string name="title_activity_detail">Details</string>
+    <string name="title_activity_settings">Settings</string>
+
+
+    <!--Strings related to Settings.-->
+    <string name="pref_location_key">location</string>
+    <string name="pref_location_label">Location</string>
+    <string name="pref_location_default">Rio de Janeiro, BR</string>
+
+    <string name="pref_units_key">units</string>
+    <string name="pref_units_label">Pick your units</string>
+    <string name="pref_unit_entry_metric">Metric</string>
+    <string name="pref_unit_entry_imperial">Imperial</string>
+    <string name="pref_unit_value_metric">metric</string>
+    <string name="pref_unit_value_imperial">imperial</string>
+    <string name="action_share_details">Share</string>
+</resources>
